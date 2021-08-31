@@ -50,9 +50,9 @@ description: |-
   - [Appetize.io Deploy](https://www.bitrise.io/integrations/steps/appetize-deploy)
   - [Android Sign](https://www.bitrise.io/integrations/steps/sign-apk)
 
-website: https://github.com/bitrise-io/steps-google-play-deploy
-source_code_url: https://github.com/bitrise-io/steps-google-play-deploy
-support_url: https://github.com/bitrise-io/steps-google-play-deploy/issues
+website: https://github.com/BirmacherAkos/steps-google-play-deploy
+source_code_url: https://github.com/BirmacherAkos/steps-google-play-deploy
+support_url: https://github.com/BirmacherAkos/steps-google-play-deploy/issues
 project_type_tags:
 - android
 - xamarin
